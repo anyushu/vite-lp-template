@@ -6,8 +6,8 @@ First, run the development server:
 
 ```bash
 # Install dependencies
-yarn install
+pnpm i
 
 # Start dev server
-yarn dev
+pnpm dev
 ```
